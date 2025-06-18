@@ -42,10 +42,3 @@ python torneios.py
 python inscricoes.py
 python relatorios.py
 
-Autor
-Thamy — Estudante de Engenharia de Software
-[Meu LinkedIn](https://www.linkedin.com/in/thamyres-oliveira-112820357)
-
-Observações
-Este projeto foi desenvolvido como parte do meu aprendizado em Engenharia de Software.
-Feedbacks são super bem-vindos!

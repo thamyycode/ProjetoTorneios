@@ -13,22 +13,18 @@ Este projeto é um sistema simples para gerenciar times, jogadores, torneios, in
 ## Tecnologias Utilizadas
 
 - Python 3.13
-- Biblioteca `tabulate` (para exibição formatada no terminal)
+- Biblioteca [`tabulate`](https://pypi.org/project/tabulate/) (para exibição formatada no terminal)
 - Arquivos `.txt` como base de dados simples
 
-# Como Executar
+## Como Executar
 
 Clone o repositório:
 
 ```bash
 git clone https://github.com/thamyycode/ProjetoTorneios.git
-cd seurepositorio
-
-Instale a biblioteca tabulate, se ainda não tiver:
+cd ProjetoTorneios
 
 pip install tabulate
-
-Execute os arquivos .py conforme a funcionalidade desejada:
 
 python times.py
 python jogadores.py
@@ -40,5 +36,6 @@ Autor
 Thamy — Estudante de Engenharia de Software
 Meu LinkedIn: linkedin.com/in/thamyres-oliveira-112820357
 
-## Observações
-Este projeto foi desenvolvido como parte do meu aprendizado em Engenharia de Software. Feedbacks são super bem-vindos! 
+Observações
+Este projeto foi desenvolvido como parte do meu aprendizado em Engenharia de Software.
+Feedbacks são super bem-vindos! 

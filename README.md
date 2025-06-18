@@ -1,14 +1,14 @@
-# 🎮 Projeto de Gerenciamento de Torneios 🏆
+# 🎮 Projeto de Gerenciamento de Torneios (TH Games Hub) 🏆
 
-Este projeto é um sistema simples para gerenciar times, jogadores, torneios, inscrições e gerar relatórios. Foi desenvolvido como parte da disciplina de Engenharia de Software, com foco em boas práticas e organização de código.
+Este projeto é uma aplicação simples e funcional, desenvolvida em Python, para gerenciar times, jogadores, torneios, inscrições e gerar relatórios detalhados, ideal para fãs de jogos competitivos como Valorant, League of Legends e outros games multiplayer. Pensado para quem curte o mundo dos e-sports, o sistema oferece uma forma prática e eficiente de organizar campeonatos e times.
 
 ## Autor
-Thamy — Estudante de Engenharia de Software
+Thamyres Oliveira — Estudante de Engenharia de Software
 [Meu LinkedIn](https://www.linkedin.com/in/thamyres-oliveira-112820357)
 
 ## Observações
 Este projeto foi desenvolvido como parte do meu aprendizado em Engenharia de Software.
-Feedbacks são super bem-vindos! 
+Feedbacks são super bem-vindos!
 
 
 ## Estrutura do Projeto
@@ -48,4 +48,4 @@ Thamy — Estudante de Engenharia de Software
 
 Observações
 Este projeto foi desenvolvido como parte do meu aprendizado em Engenharia de Software.
-Feedbacks são super bem-vindos! 
+Feedbacks são super bem-vindos!

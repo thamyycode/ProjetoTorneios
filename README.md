@@ -29,7 +29,7 @@ Feedbacks são super bem-vindos!
 
 Clone o repositório:
 
-[git clone](https://github.com/thamyycode/ProjetoTorneios.git)
+git clone (https://github.com/thamyycode/ProjetoTorneios.git)
 cd ProjetoTorneios
 
 ```bash

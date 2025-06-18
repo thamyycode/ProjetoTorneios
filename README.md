@@ -2,6 +2,15 @@
 
 Este projeto é um sistema simples para gerenciar times, jogadores, torneios, inscrições e gerar relatórios. Foi desenvolvido como parte da disciplina de Engenharia de Software, com foco em boas práticas e organização de código.
 
+## Autor
+Thamy — Estudante de Engenharia de Software
+[Meu LinkedIn](https://www.linkedin.com/in/thamyres-oliveira-112820357)
+
+## Observações
+Este projeto foi desenvolvido como parte do meu aprendizado em Engenharia de Software.
+Feedbacks são super bem-vindos! 
+
+
 ## Estrutura do Projeto
 
 - `times.py` → Gerenciamento de times (CRUD)
@@ -20,10 +29,10 @@ Este projeto é um sistema simples para gerenciar times, jogadores, torneios, in
 
 Clone o repositório:
 
-```bash
-git clone https://github.com/thamyycode/ProjetoTorneios.git
+[git clone](https://github.com/thamyycode/ProjetoTorneios.git)
 cd ProjetoTorneios
 
+```bash
 pip install tabulate
 
 python times.py

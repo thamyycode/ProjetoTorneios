@@ -21,7 +21,7 @@ Este projeto é um sistema simples para gerenciar times, jogadores, torneios, in
 Clone o repositório:
 
 ```bash
-git clone 
+git clone https://github.com/thamyycode/ProjetoTorneios.git
 cd seurepositorio
 
 Instale a biblioteca tabulate, se ainda não tiver:
@@ -38,7 +38,7 @@ python relatorios.py
 
 Autor
 Thamy — Estudante de Engenharia de Software
-[Meu LinkedIn](linkedin.com/in/thamyres-oliveira-112820357)
+Meu LinkedIn: linkedin.com/in/thamyres-oliveira-112820357
 
 ## Observações
 Este projeto foi desenvolvido como parte do meu aprendizado em Engenharia de Software. Feedbacks são super bem-vindos! 

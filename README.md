@@ -36,9 +36,21 @@ python torneios.py
 python inscricoes.py
 python relatorios.py
 
+Instale a biblioteca tabulate, se ainda não tiver:
+
+pip install tabulate
+
+Execute os arquivos .py conforme a funcionalidade desejada:
+
+python times.py
+python jogadores.py
+python torneios.py
+python inscricoes.py
+python relatorios.py
+
 Autor
 Thamy — Estudante de Engenharia de Software
-[Meu LinkedIn]()
+[Meu LinkedIn](linkedin.com/in/thamyres-oliveira-112820357)
 
 ## Observações
 Este projeto foi desenvolvido como parte do meu aprendizado em Engenharia de Software. Feedbacks são super bem-vindos! 

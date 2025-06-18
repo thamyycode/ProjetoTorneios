@@ -10,6 +10,8 @@ Thamyres Oliveira — Estudante de Engenharia de Software
 Este projeto foi desenvolvido como parte do meu aprendizado em Engenharia de Software.
 Feedbacks são super bem-vindos!
 
+## Licença
+Este projeto está sob a licença MIT, que permite usar, copiar e modificar o código livremente, desde que você dê crédito à autora original (Thamyres Oliveira).
 
 ## Estrutura do Projeto
 

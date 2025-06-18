@@ -36,6 +36,8 @@ cd ProjetoTorneios
 
 pip install tabulate
 
+Execute os módulos conforme desejar:
+
 python times.py
 python jogadores.py
 python torneios.py

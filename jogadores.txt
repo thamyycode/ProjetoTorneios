@@ -1,0 +1,3 @@
+J001;THDark;Duelista;T001
+J002;PixelKiller;Sniper;T002
+J003;FlashBoom;Rushador;T003

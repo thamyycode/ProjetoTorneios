@@ -1,0 +1,4 @@
+ID;Nome do Time;Nome do Jogo
+T001;Os Invictos;Valorant
+T002;Furia Flamejante;Free Fire
+T003;Lendarios;Fortnite
